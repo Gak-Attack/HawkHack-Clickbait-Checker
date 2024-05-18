@@ -1,3 +1,2 @@
 # HawkHack-Clickbait-Checker
-Need to add text file to project to check, but checks how many times a set of words appear in another set of words.
-If 3% of the words in the text file are in suggested for the title, the title is 'accurate'. Otherwise, it is 'inaccurate'.
+Note: users will need to supply their own text document to use properly. This program will check what percentage of the words in a text can be found in the title of the project.
